@@ -25,6 +25,7 @@ class App extends React.Component {
         {/* <FunctionClick /> */}
         {/* <ClassClick /> */}
         <EventBind />
+      <EventBind />
         </div>
     );
   }
