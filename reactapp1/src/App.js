@@ -15,7 +15,7 @@ class App extends React.Component {
       <div className="App">
         {/* <h1>App Component </h1>
         <Greet name="Narayana"/>
-        <Greet name="Ram"/>
+        <Greet name="Ramu"/>
         <Greet name="Vasmi">
         <p>This is Greet tag</p>
         </Greet>
