@@ -20,7 +20,7 @@ class App extends React.Component {
         <p>This is Greet tag</p>
         </Greet>
         <Hello name="Narayana"/> */}
-        {/* <Message/> */}
+        <Message/>
         {/* <Counter /> */}
         {/* <FunctionClick /> */}
         {/* <ClassClick /> */}
